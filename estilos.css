@@ -24,4 +24,10 @@ h2{
     font-family: 'Dancing Script', cursive;
     font-size: 8mm;
 }
-    
+
+img{
+    width: 30%;
+    height: 30%;
+    margin: auto;
+    display: block;
+}
